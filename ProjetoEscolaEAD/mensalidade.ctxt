@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=mensalidade
+comment1.params=valor
+comment1.target=mensalidade(double)
+comment2.params=
+comment2.target=double\ getValor()
+comment3.params=valor
+comment3.target=void\ setValor(double)
+comment4.params=
+comment4.target=boolean\ isPago()
+comment5.params=pago
+comment5.target=void\ setPago(boolean)
+comment6.params=
+comment6.target=void\ darBaixa()
+numComments=7
