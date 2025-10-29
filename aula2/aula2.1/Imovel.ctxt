@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Imovel
+comment1.params=tipo\ area\ quartos
+comment1.target=Imovel(java.lang.String,\ double,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getTipo()
+comment3.params=
+comment3.target=double\ getArea()
+comment4.params=
+comment4.target=int\ getQuartos()
+comment5.params=tipo
+comment5.target=void\ setTipo(java.lang.String)
+comment6.params=area
+comment6.target=void\ setArea(double)
+comment7.params=quartos
+comment7.target=void\ setQuartos(int)
+comment8.params=
+comment8.target=void\ exibeDados()
+numComments=9
