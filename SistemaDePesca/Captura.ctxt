@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Captura
+comment1.params=
+comment1.target=int\ getDataCaptura()
+comment10.params=nomeEmbarcacao
+comment10.target=void\ setNomeEmbarcacao(java.lang.String)
+comment11.params=
+comment11.target=void\ exibeDados()
+comment2.params=dataCaptura
+comment2.target=void\ setDataCaptura(int)
+comment3.params=
+comment3.target=int\ getQuantidade()
+comment4.params=quantidade
+comment4.target=void\ setQuantidade(int)
+comment5.params=
+comment5.target=java.lang.String\ getTipoPeixe()
+comment6.params=tipoPeixe
+comment6.target=void\ setTipoPeixe(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getNomePescador()
+comment8.params=nomePescador
+comment8.target=void\ setNomePescador(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ getNomeEmbarcacao()
+numComments=12

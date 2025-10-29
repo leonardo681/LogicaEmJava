@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Embarcacao
+comment1.params=nome
+comment1.target=void\ setNome(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=tipo
+comment3.target=void\ setTipo(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getTipo()
+comment5.params=anoFabricacao
+comment5.target=void\ setAnoFabricacao(int)
+comment6.params=
+comment6.target=int\ getAnoFabricacao()
+comment7.params=
+comment7.target=void\ exibeDetalhes()
+numComments=8

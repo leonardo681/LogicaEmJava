@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Canoa
+comment1.params=material
+comment1.target=void\ setMaterial(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getMaterial()
+comment3.params=
+comment3.target=void\ exibeDetalhes()
+numComments=4

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Lancha
+comment1.params=potenciaMotor
+comment1.target=void\ setPotenciaMotor(int)
+comment2.params=
+comment2.target=int\ getPotenciaMotor()
+comment3.params=
+comment3.target=void\ exibeDetalhes()
+numComments=4
